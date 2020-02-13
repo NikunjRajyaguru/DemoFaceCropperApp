@@ -1,0 +1,16 @@
+PODS:
+  - FaceCropper (1.0.0)
+
+DEPENDENCIES:
+  - FaceCropper
+
+SPEC REPOS:
+  trunk:
+    - FaceCropper
+
+SPEC CHECKSUMS:
+  FaceCropper: 5037221c279db6ae3cea68e76ac4165c85c7c291
+
+PODFILE CHECKSUM: 047b4678561cd17004c9e5e7f5fa6a11d5af82bb
+
+COCOAPODS: 1.8.4
